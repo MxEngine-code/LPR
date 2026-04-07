@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\bin\Debug\net10.0\Heroi.exe
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\bin\Debug\net10.0\Heroi.deps.json
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\bin\Debug\net10.0\Heroi.runtimeconfig.json
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\bin\Debug\net10.0\Heroi.dll
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\bin\Debug\net10.0\Heroi.pdb
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.AssemblyInfo.cs
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.sourcelink.json
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.dll
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\refint\Heroi.dll
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.pdb
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\Heroi.genruntimeconfig.cache
+C:\Users\Max\Desktop\Codes ete ds\LPR\Aula6\Heroi\obj\Debug\net10.0\ref\Heroi.dll
