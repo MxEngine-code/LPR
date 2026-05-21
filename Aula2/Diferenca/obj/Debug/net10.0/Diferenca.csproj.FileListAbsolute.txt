@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\bin\Debug\net10.0\Diferenca.exe
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\bin\Debug\net10.0\Diferenca.deps.json
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\bin\Debug\net10.0\Diferenca.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\bin\Debug\net10.0\Diferenca.dll
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\bin\Debug\net10.0\Diferenca.pdb
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.sourcelink.json
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.dll
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\refint\Diferenca.dll
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.pdb
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\Diferenca.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR\Aula2\Diferenca\obj\Debug\net10.0\ref\Diferenca.dll
