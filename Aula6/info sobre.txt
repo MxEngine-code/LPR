@@ -1,0 +1,7 @@
+Acabei me impolgandondo e tinha esquecido que não poda listas e tals, acabei no "Heroi",
+fugindo um pouco do enunciando cumpre as ações que deve cumprir, mas usa listas, class,
+e funções com outros nomes, por isso fiz esse e o "Heroi atendendo regras",
+que tentei seguir de forma mais direta os requisitos e tals.
+
+No inverso.cpp, fiz um "limpar" o console tipo do python funciona para linux, windows e ademais dispositivos,
+mas para funcionar necessário executar o .exe, ou outro tipo dele, basicamente o build.
