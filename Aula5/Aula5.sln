@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media arit", "Media arit\Media arit.csproj", "{18117CE5-962A-17F7-A7A7-580CCC6BC74A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18117CE5-962A-17F7-A7A7-580CCC6BC74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18117CE5-962A-17F7-A7A7-580CCC6BC74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18117CE5-962A-17F7-A7A7-580CCC6BC74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18117CE5-962A-17F7-A7A7-580CCC6BC74A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86734CA2-7207-4881-BCB2-F72AB5CA314B}
+	EndGlobalSection
+EndGlobal

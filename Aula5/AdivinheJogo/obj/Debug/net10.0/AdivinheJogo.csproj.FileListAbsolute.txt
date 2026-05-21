@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\bin\Debug\net10.0\AdivinheJogo.exe
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\bin\Debug\net10.0\AdivinheJogo.deps.json
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\bin\Debug\net10.0\AdivinheJogo.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\bin\Debug\net10.0\AdivinheJogo.dll
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\bin\Debug\net10.0\AdivinheJogo.pdb
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.sourcelink.json
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.dll
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\refint\AdivinheJogo.dll
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.pdb
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\AdivinheJogo.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR\Aula5\AdivinheJogo\obj\Debug\net10.0\ref\AdivinheJogo.dll
